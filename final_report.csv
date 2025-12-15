@@ -1,0 +1,123 @@
+﻿order_id,product_id,quantity,unit_price,order_date,product_name,category,reason,refund_amount,return_merge,return_mismatch
+OD3000,PR04,3,350000.0,2024-01-14,chuot khong day,gia dụng,,,left_only,False
+OD3001,PR02,3,300000.0,2024-02-05,loa bluetooth,điện tử,,,left_only,False
+OD3002,PR02,2,250000.0,2024-04-23,loa bluetooth,điện tử,,,left_only,False
+OD3003,PR01,3,150000.0,2024-04-18,tai nghe bluetooth,điện tử,,,left_only,False
+OD3004,PR05,3,150000.0,2024-03-15,sac du phong,gia dụng,,,left_only,False
+OD3005,PR04,2,250000.0,2024-03-11,chuot khong day,gia dụng,,,left_only,False
+OD3006,PR03,2,300000.0,2024-04-09,ban phim co,điện tử,,,left_only,False
+OD3007,PR02,3,200000.0,2024-04-08,loa bluetooth,điện tử,,,left_only,False
+OD3008,PR05,3,350000.0,2024-03-05,sac du phong,gia dụng,,,left_only,False
+OD3009,PR05,1,200000.0,2024-01-02,sac du phong,gia dụng,,,left_only,False
+OD3010,PR02,2,1250000.0,2024-03-06,loa bluetooth,điện tử,hỏng,100000.0,both,False
+OD3011,PR02,-1,250000.0,2024-03-13,loa bluetooth,điện tử,,,left_only,False
+OD3012,PR02,3,1250000.0,2024-02-15,loa bluetooth,điện tử,,,left_only,False
+OD3013,PR01,2,200000.0,2024-02-03,tai nghe bluetooth,điện tử,,,left_only,False
+OD3014,PR03,2,150000.0,2024-03-07,ban phim co,điện tử,,,left_only,False
+OD3015,PR03,-1,200000.0,2024-04-22,ban phim co,điện tử,,,left_only,False
+OD3016,PR01,1,1250000.0,2024-03-31,tai nghe bluetooth,điện tử,,,left_only,False
+OD3017,PR05,3,350000.0,2024-02-03,sac du phong,gia dụng,,,left_only,False
+OD3018,PR05,2,300000.0,2024-03-24,sac du phong,gia dụng,,,left_only,False
+OD3019,PR04,3,300000.0,2024-04-16,chuot khong day,gia dụng,lỗi sản phẩm,100000.0,both,False
+OD3020,PR01,2,350000.0,2024-04-26,tai nghe bluetooth,điện tử,hỏng,150.0,both,False
+OD3021,PR02,2,200000.0,2024-04-21,loa bluetooth,điện tử,,,left_only,False
+OD3022,PR03,-1,200000.0,2024-01-01,ban phim co,điện tử,,,left_only,False
+OD3023,PR05,2,200000.0,2024-01-10,sac du phong,gia dụng,lỗi sản phẩm,150000.0,both,False
+OD3024,PR05,3,350000.0,2024-01-24,sac du phong,gia dụng,,,left_only,False
+OD3025,PR02,3,300000.0,2024-01-16,loa bluetooth,điện tử,,,left_only,False
+OD3026,PR02,-1,350000.0,2024-03-02,loa bluetooth,điện tử,khác,100000.0,both,False
+OD3027,PR04,-1,250000.0,2024-03-23,chuot khong day,gia dụng,,,left_only,False
+OD3028,PR04,1,250000.0,2024-03-14,chuot khong day,gia dụng,,,left_only,False
+OD3029,PR05,2,250000.0,2024-01-06,sac du phong,gia dụng,,,left_only,False
+OD3030,PR05,2,150000.0,2024-04-28,sac du phong,gia dụng,,,left_only,False
+OD3031,PR02,2,200000.0,2024-03-13,loa bluetooth,điện tử,,,left_only,False
+OD3032,PR01,3,1250000.0,2024-02-06,tai nghe bluetooth,điện tử,,,left_only,False
+OD3033,PR01,2,200000.0,2024-03-01,tai nghe bluetooth,điện tử,,,left_only,False
+OD3034,PR04,2,250000.0,2024-03-17,chuot khong day,gia dụng,,,left_only,False
+OD3035,PR02,2,250000.0,2024-03-06,loa bluetooth,điện tử,,,left_only,False
+OD3036,PR03,2,1250000.0,2024-04-28,ban phim co,điện tử,khác,100000.0,both,False
+OD3037,PR04,2,300000.0,2024-02-18,chuot khong day,gia dụng,,,left_only,False
+OD3038,PR04,2,150000.0,2024-03-07,chuot khong day,gia dụng,,,left_only,False
+OD3039,PR05,3,200000.0,2024-03-18,sac du phong,gia dụng,hỏng,150.0,both,False
+OD3039,PR05,3,200000.0,2024-03-18,sac du phong,gia dụng,hỏng,200000.0,both,False
+OD3039,PR05,3,200000.0,2024-03-18,sac du phong,gia dụng,khác,150.0,both,False
+OD3040,PR01,2,200000.0,2024-03-17,tai nghe bluetooth,điện tử,,,left_only,False
+OD3041,PR01,2,300000.0,2024-01-12,tai nghe bluetooth,điện tử,,,left_only,False
+OD3042,PR04,3,250000.0,2024-03-10,chuot khong day,gia dụng,,,left_only,False
+OD3043,PR01,3,1250000.0,2024-02-23,tai nghe bluetooth,điện tử,,,left_only,False
+OD3044,PR03,1,1250000.0,2024-01-30,ban phim co,điện tử,,,left_only,False
+OD3045,PR04,-1,350000.0,2024-04-04,chuot khong day,gia dụng,,,left_only,False
+OD3046,PR05,1,200000.0,2024-03-02,sac du phong,gia dụng,,,left_only,False
+OD3047,PR02,1,350000.0,2024-03-10,loa bluetooth,điện tử,,,left_only,False
+OD3048,PR04,3,250000.0,2024-04-05,chuot khong day,gia dụng,,,left_only,False
+OD3049,PR01,2,300000.0,2024-01-01,tai nghe bluetooth,điện tử,,,left_only,False
+OD3050,PR04,3,250000.0,2024-02-10,chuot khong day,gia dụng,,,left_only,False
+OD3051,PR04,3,150000.0,2024-03-24,chuot khong day,gia dụng,,,left_only,False
+OD3052,PR05,3,350000.0,2024-02-24,sac du phong,gia dụng,,,left_only,False
+OD3053,PR05,3,300000.0,2024-03-28,sac du phong,gia dụng,,,left_only,False
+OD3054,PR04,2,200000.0,2024-03-12,chuot khong day,gia dụng,,,left_only,False
+OD3055,PR04,2,350000.0,2024-03-02,chuot khong day,gia dụng,hỏng,150000.0,both,False
+OD3056,PR03,3,300000.0,2024-03-31,ban phim co,điện tử,,,left_only,False
+OD3057,PR04,3,250000.0,2024-03-25,chuot khong day,gia dụng,,,left_only,False
+OD3058,PR01,3,250000.0,2024-03-30,tai nghe bluetooth,điện tử,,,left_only,False
+OD3059,PR02,1,250000.0,2024-04-10,loa bluetooth,điện tử,,,left_only,False
+OD3060,PR03,2,300000.0,2024-03-31,ban phim co,điện tử,,,left_only,False
+OD3061,PR01,2,200000.0,2024-01-01,tai nghe bluetooth,điện tử,,,left_only,False
+OD3062,PR01,2,200000.0,2024-02-25,tai nghe bluetooth,điện tử,,,left_only,False
+OD3063,PR01,1,350000.0,2024-01-11,tai nghe bluetooth,điện tử,,,left_only,False
+OD3064,PR05,1,1250000.0,2024-02-21,sac du phong,gia dụng,,,left_only,False
+OD3065,PR05,3,300000.0,2024-03-17,sac du phong,gia dụng,,,left_only,False
+OD3066,PR01,2,1250000.0,2024-01-02,tai nghe bluetooth,điện tử,,,left_only,False
+OD3067,PR02,3,300000.0,2024-01-05,loa bluetooth,điện tử,hỏng,100000.0,both,False
+OD3068,PR05,2,300000.0,2024-03-19,sac du phong,gia dụng,,,left_only,False
+OD3069,PR02,3,150000.0,2024-03-24,loa bluetooth,điện tử,,,left_only,False
+OD3070,PR01,2,150000.0,2024-04-09,tai nghe bluetooth,điện tử,,,left_only,False
+OD3071,PR04,3,1250000.0,2024-03-16,chuot khong day,gia dụng,,,left_only,False
+OD3072,PR02,2,150000.0,2024-01-09,loa bluetooth,điện tử,,,left_only,False
+OD3073,PR01,2,350000.0,2024-03-12,tai nghe bluetooth,điện tử,,,left_only,False
+OD3074,PR05,3,350000.0,2024-02-05,sac du phong,gia dụng,,,left_only,False
+OD3075,PR02,2,250000.0,2024-02-21,loa bluetooth,điện tử,,,left_only,False
+OD3076,PR05,1,350000.0,2024-03-05,sac du phong,gia dụng,lỗi sản phẩm,0.0,both,False
+OD3077,PR01,2,150000.0,2024-02-13,tai nghe bluetooth,điện tử,khác,150.0,both,False
+OD3078,PR01,2,350000.0,2024-04-14,tai nghe bluetooth,điện tử,,,left_only,False
+OD3079,PR05,3,1250000.0,2024-02-18,sac du phong,gia dụng,,,left_only,False
+OD3080,PR05,-1,250000.0,2024-04-09,sac du phong,gia dụng,,,left_only,False
+OD3081,PR04,3,200000.0,2024-04-20,chuot khong day,gia dụng,,,left_only,False
+OD3082,PR01,-1,150000.0,2024-02-18,tai nghe bluetooth,điện tử,,,left_only,False
+OD3083,PR02,3,1250000.0,2024-02-10,loa bluetooth,điện tử,,,left_only,False
+OD3084,PR04,3,300000.0,2024-03-30,chuot khong day,gia dụng,,,left_only,False
+OD3085,PR03,2,350000.0,2024-03-27,ban phim co,điện tử,,,left_only,False
+OD3086,PR03,1,300000.0,2024-03-01,ban phim co,điện tử,,,left_only,False
+OD3087,PR03,3,250000.0,2024-02-04,ban phim co,điện tử,,,left_only,False
+OD3088,PR02,3,1250000.0,2024-01-25,loa bluetooth,điện tử,,,left_only,False
+OD3089,PR04,3,250000.0,2024-01-31,chuot khong day,gia dụng,,,left_only,False
+OD3090,PR03,2,250000.0,2024-02-01,ban phim co,điện tử,,,left_only,False
+OD3091,PR05,3,250000.0,2024-01-16,sac du phong,gia dụng,,,left_only,False
+OD3092,PR01,3,1250000.0,2024-01-01,tai nghe bluetooth,điện tử,,,left_only,False
+OD3093,PR05,1,200000.0,2024-02-10,sac du phong,gia dụng,méo mó,150.0,both,False
+OD3094,PR04,2,350000.0,2024-04-07,chuot khong day,gia dụng,,,left_only,False
+OD3095,PR05,3,200000.0,2024-03-14,sac du phong,gia dụng,,,left_only,False
+OD3096,PR02,1,300000.0,2024-03-02,loa bluetooth,điện tử,,,left_only,False
+OD3097,PR05,1,300000.0,2024-04-20,sac du phong,gia dụng,,,left_only,False
+OD3098,PR02,-1,150000.0,2024-02-28,loa bluetooth,điện tử,,,left_only,False
+OD3099,PR03,3,150000.0,2024-01-27,ban phim co,điện tử,,,left_only,False
+OD3100,PR04,2,150000.0,2024-03-19,chuot khong day,gia dụng,,,left_only,False
+OD3101,PR03,2,300000.0,2024-02-04,ban phim co,điện tử,,,left_only,False
+OD3102,PR04,2,350000.0,2024-03-04,chuot khong day,gia dụng,,,left_only,False
+OD3103,PR04,2,200000.0,2024-02-17,chuot khong day,gia dụng,khác,150000.0,both,False
+OD3104,PR03,-1,350000.0,2024-03-14,ban phim co,điện tử,,,left_only,False
+OD3105,PR02,2,1250000.0,2024-01-13,loa bluetooth,điện tử,,,left_only,False
+OD3106,PR03,2,300000.0,2024-02-18,ban phim co,điện tử,,,left_only,False
+OD3107,PR02,2,1250000.0,2024-04-13,loa bluetooth,điện tử,,,left_only,False
+OD3108,PR01,2,200000.0,2024-04-24,tai nghe bluetooth,điện tử,,,left_only,False
+OD3109,PR05,2,1250000.0,2024-03-03,sac du phong,gia dụng,hỏng,150000.0,both,False
+OD3110,PR03,3,300000.0,2024-01-07,ban phim co,điện tử,khác,0.0,both,False
+OD3111,PR04,1,1250000.0,2024-01-28,chuot khong day,gia dụng,,,left_only,False
+OD3112,PR03,-1,1250000.0,2024-04-05,ban phim co,điện tử,,,left_only,False
+OD3113,PR03,3,350000.0,2024-03-12,ban phim co,điện tử,hỏng,0.0,both,False
+OD3114,PR03,3,150000.0,2024-02-14,ban phim co,điện tử,,,left_only,False
+OD3115,PR05,2,300000.0,2024-03-24,sac du phong,gia dụng,,,left_only,False
+OD3116,PR05,2,350000.0,2024-03-27,sac du phong,gia dụng,,,left_only,False
+OD3117,PR05,-1,1250000.0,2024-01-11,sac du phong,gia dụng,,,left_only,False
+OD3118,PR04,2,350000.0,2024-01-19,chuot khong day,gia dụng,,,left_only,False
+OD3119,PR02,3,350000.0,2024-03-19,loa bluetooth,điện tử,,,left_only,False
